@@ -1,0 +1,23 @@
+And the result shoud be postive (po scenarijaus)
+
+, generate step defiinistion,
+
+copy ir deti po assertion
+vietoj scenario 
+Assert.Greater(result, 0, "Result was negative.");
+
+strinh [] usernMW = {"NERI", ADMIN"};
+STRING [] passwords = {"};
+
+url
+pv
+pasirasyt ar failins ar ne
+1 test su geru
+2 test su blogu namu darbams
+
+Paskaityt apie selenium komandas, kas daro asserta. Tarkim uzkrauna, kad parodytu kazkoki message.
+PRie click WriteLine Succes. Kad message rodo.
+
+
+
+
